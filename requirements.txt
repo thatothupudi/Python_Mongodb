@@ -149,7 +149,7 @@ pycups==1.9.73
 PyGithub==1.47
 pygobject==3.26.1
 pyinotify==0.9.6
-PyJWT==1.7.1
+PyJWT==2.4.0
 pymacaroons==0.13.0
 pymongo==3.10.1
 PyNaCl==1.1.2
